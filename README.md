@@ -169,9 +169,8 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 基于动态手势识别算法的端到端会议控制系统的系统架构设计如图：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/5.1.png)
+![图5.1 系统架构设计图](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/5.1.png)
 
-图5.1 系统架构设计图
 
 设计图主要包含了展示层，业务逻辑层，数据加载层和相关的开发环境平台等几个关键的模块，接下来，将会对各个模块进行进一步地介绍。
 
