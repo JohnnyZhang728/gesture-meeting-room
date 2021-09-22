@@ -160,7 +160,9 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 用例图如下所示：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/4.1.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/4.1.png)
+
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/4.1.png)
 
 图4.1 系统用例图
 
@@ -168,7 +170,7 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 基于动态手势识别算法的端到端会议控制系统的系统架构设计如图：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/5.1.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/5.1.png)
 
 图5.1 系统架构设计图
 
@@ -186,7 +188,7 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 动态手势识别算法模型的结构图如下：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/5.2.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/5.2.png)
 
 图5.2 动态手势识别模型结构图
 
@@ -202,7 +204,7 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 在基于手势识别的会议控制系统中，动态手势的检测与识别尤其重要，而我们基于深度学习、机器学习技术将三个模型结合起来组成pipeline进行实现，为此设计了如下流程：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/5.3.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/5.3.png)
 
 图5.3 系统流程图
 
@@ -256,13 +258,13 @@ Python环境和TensorFlow深度学习框架，对操作系统无限制。
 
 ## 7.1 数据流图模型
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/7.1.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/7.1.png)
 
 图7.1 系统数据流图
 
 ## 7.2 手势识别会议系统的分层体系结构
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/7.2.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/7.2.png)
 
 图7.2 系统分层结构图
 
@@ -296,7 +298,7 @@ YOLOV3将输入图像分成S\*S个格子，每个格子预测B个bounding box，
 
 YOLOV3的网络结构如下图所示：
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/9.1.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/9.1.png)
 
 图9.1 YOLOV3网络结构
 
@@ -322,7 +324,7 @@ ResNet(Residual Network)是2015年ImageNet图像分类、图像物体定位和�
 
 残差模块如图所示，左边是基本模块连接方式，由两个输出通道数相同的3x3卷积组成。右边是瓶颈模块(Bottleneck)连接方式，之所以称为瓶颈，是因为上面的1x1卷积用来降维(图示例即256-\&gt;64)，下面的1x1卷积用来升维(图示例即64-\&gt;256)，这样中间3x3卷积的输入和输出通道数都较小(图示例即64-\&gt;64)。
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/tree/main/imgs/9.2.png)
+![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/9.2.png)
 
 图9.2 Resnet残差模块
 
