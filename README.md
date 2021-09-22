@@ -162,7 +162,6 @@ TensorFlow是一个基于数据流编程（dataflow programming）的符号数�
 
 ![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/4.1.png)
 
-![](https://github.com/JohnnyZhang728/gesture-meeting-room/blob/main/imgs/4.1.png)
 
 图4.1 系统用例图
 
